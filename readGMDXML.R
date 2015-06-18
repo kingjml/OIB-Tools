@@ -4,7 +4,7 @@
 #	outPath: Shapefile output folder, string
 #	GCS: (Geographic coordinate system):RGDAL CRS string, defaults to WGS84, 
 #		string, optional (e.g "+proj=longlat +ellps=WGS84")
-#		I am resonably certaint that all GMDXML files are in WGS84
+#		I am reasonably certaint that all GMDXML files are in WGS84
 #	PCS: (Projected coordinate system):RGDAL CRS string, defaults to NULL (ie. unprojected)
 #		string, optional (e.g. ""+proj=utm +zone=16 +north +units=m +ellps=WGS84")
 #Output: ESRI Shapefile to outPath
